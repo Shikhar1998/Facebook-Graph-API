@@ -1,7 +1,5 @@
-NSIT-CSIWebD RECRUITMENT PROJECT
 --------------------
 CREATED BY : SHIKHAR MAKHIJA
-ROLL NO : 155-EC-15
 --------------------
 CONTENTS
 --------------------
